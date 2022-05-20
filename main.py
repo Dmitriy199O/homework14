@@ -138,7 +138,7 @@ def main():
                   }
             res_json.append(r_)
 
-
+    app.run(debug=True)
 
 
 
